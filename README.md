@@ -1,8 +1,6 @@
 # Ford F150 Price Analysis
 In this project, I explored between certain attributes of a vehicle and its sale data by identifying common patterns through statistical analysis and visualizations.
 
-Dataset: https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data 
-
 # Dataset Information
 This dataset includes a variety of attributes that are can be used to analyze the relationship between certain characteristics and car sales. Each row in the dataset represents one vehicle. The attributes are:
 1. year: the manufacturing year of the vehicle
