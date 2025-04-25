@@ -1,5 +1,5 @@
 # Ford F150 Price Analysis
-In this project, I explored between certain attributes of a vehicle and its sale data by identifying common patterns through statistical analysis and visualizations.
+In this project, I explored between certain attributes of a vehicle and its sale data by identifying common patterns through statistical analysis and visualizations. I chose to visualize the relationship that I felt was most relevant, which was the relationship between the year the vehicle was made and selling price. The graph can be found in the pdf file.
 
 # Dataset Information
 This dataset includes a variety of attributes that are can be used to analyze the relationship between certain characteristics and car sales. Each row in the dataset represents one vehicle. The attributes are:
